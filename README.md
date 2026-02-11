@@ -1,4 +1,4 @@
-### Network Security Projects For Phising Data
+### Network Security Classification Project For Phising Data
 
 Setup github secrets:
 AWS_ACCESS_KEY_ID=
@@ -27,3 +27,5 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 
 newgrp docker
+
+
